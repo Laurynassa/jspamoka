@@ -124,8 +124,5 @@ console.log(beasts.indexOf("giraffe"));
 // console.log(x--);
 // console.log(x);
 
-let tekstas = "labas";
-tekstas = "ate";
-console.log(tekstas);
 // const nekeiciamas, objektai parasomi
 // let keiciamim, pagrinde let naudojam kintamiems
